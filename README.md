@@ -1,4 +1,5 @@
-# Instagram Unfollower
+# ⚠️ unfortunately it's not working right now.
+# Instagram Unfollower 
 It is a simple application that unfollows those who don't follow you using [instagram_private_api](https://github.com/ping/instagram_private_api). With the code I wrote, we can use this API with the interface.
 
 ## How to use?
